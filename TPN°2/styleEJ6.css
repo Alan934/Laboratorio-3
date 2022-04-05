@@ -1,0 +1,22 @@
+#cuerpo{
+    border: 1px solid #000;
+    width: 50%;
+    height: 50%;
+}
+
+#cabeza li{
+    list-style: none;
+    margin-left: 5px;
+    display: inline-block;
+
+}
+
+#dentro{
+    border: 1px solid #000;
+    margin-left: 5px;
+}
+
+#andSig{
+    border: 1px solid #000;
+    margin: 1em;
+}

@@ -1,0 +1,67 @@
+#titulo{
+    color: cadetblue;
+}
+
+#importante{
+    color: red;
+}
+
+.destacado{
+    color: orange;
+}
+
+#subtitulo{
+    color: blue;
+}
+
+#enlace{
+    color: red;
+}
+
+#enlace em{
+    color: blue;
+}
+
+#resaltado{
+    color: purple;
+}
+
+#tabla{
+    border-collapse: collapse;
+}
+
+#tabla caption{
+    color: blue;
+}
+
+thead, tbody, tfoot, tr, th, td{
+    border: 1px solid black;
+}
+
+.especial{
+    color: orange;
+}
+
+.dentro{
+    color: green;
+}
+
+.dentro strong{
+    color: orange;
+}
+
+.tablaDentro{
+    color: red;
+}
+
+#adicional{
+    color: olivedrab;
+}
+
+#especial{
+    color: violet;
+}
+
+#adicional a{
+    color: green;
+}
